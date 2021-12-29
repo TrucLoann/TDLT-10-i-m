@@ -51,8 +51,6 @@ nutdocsach= Button(cuaso,text='Nhấn vào đây để bắt đầu đọc sách
 nutdocsach.pack(pady=('30','0'))
 
 
-
-
 cuaso.mainloop()
 
 
